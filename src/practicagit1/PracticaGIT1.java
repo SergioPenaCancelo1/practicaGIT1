@@ -67,6 +67,7 @@ public class PracticaGIT1 {
             }
             }
         while (r!=0);
+        System.out.println("este es el segundo commit");
     }
               }/// fin for..........................
           
